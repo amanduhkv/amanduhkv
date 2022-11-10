@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Amanda here! 👋
+
+![Purple Sky Profile Header](https://user-images.githubusercontent.com/105696861/201009201-8a9087ee-f891-47b7-a285-24830a7bfed8.gif)
+
+
+
+I'm a full-stack software engineer with the passion to connect my creative background with my analytical nature. I'm taking DIY to the next level by using it to create user-friendly applications!
 
 <!--
 **amanduhkv/amanduhkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanduhkv&show_icons=true&theme=material-palenight)](https://github.com/amanduhkv/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
