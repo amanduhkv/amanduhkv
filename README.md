@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ***
 <p align="center">
-	<img src='https://github-readme-stats.vercel.app/api?username=amanduhkv&show_icons=true&theme=material-palenight'>
+	<img src='https://github-readme-stats-sigma-five.vercel.app/api?username=amanduhkv&show_icons=true&theme=material-palenight'>
 
 
 ***
